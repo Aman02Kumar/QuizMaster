@@ -188,17 +188,10 @@ The frontend of QuizMaster is built using React. It provides a user-friendly int
 4. Create a `.env` file and add the necessary environment variables.
 5. Start the development server using `npm start`.
 
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change. For detailed Info refer to [Contribution.md](/Contribution.md).
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [vishalverma9572@gamail.com].
+For any questions or inquiries, please contact [amankaushik998@gamail.com].
 or Generate Issues.
 
 ---
